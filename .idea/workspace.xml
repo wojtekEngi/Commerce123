@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3fc4aa77-73c9-4fd8-9ef6-2dafa8980602" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="27phLKz4JZ8k3o5Gtl554kQlydM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/hybris/hybris",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3fc4aa77-73c9-4fd8-9ef6-2dafa8980602" name="Changes" comment="" />
+      <created>1650022880269</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650022880269</updated>
+      <workItem from="1650022884459" duration="189000" />
+      <workItem from="1650374488209" duration="386000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/bin/modules/smartedit/smartedit/apps/smartedit-e2e/tests/utils/components/Storefront.js" />
+        <option value="$PROJECT_DIR$/bin/modules/smartedit/smartedit/apps/smartedit-e2e/tests/utils/components/Perspectives.js" />
+        <option value="$PROJECT_DIR$/bin/modules/smartedit/smartedit/apps/smartedit-e2e/tests/utils/components/alertsComponentObject.js" />
+        <option value="$PROJECT_DIR$/bin/modules/smartedit/smartedit/apps/smartedit-e2e/tests/utils/components/Page.js" />
+        <option value="$PROJECT_DIR$/bin/modules/smartedit/cmssmartedit/apps/cms-smartedit-e2e/tests/utils/mockData/pagesRestrictionsMockData.js" />
+        <option value="$PROJECT_DIR$/bin/modules/smartedit/cmssmartedit/apps/cms-smartedit-e2e/tests/utils/mockData/uriContextMockData.js" />
+        <option value="$PROJECT_DIR$/bin/modules/smartedit/cmssmartedit/apps/cms-smartedit-e2e/tests/utils/mockData/pageTypesRestrictionTypesMockData.js" />
+        <option value="$PROJECT_DIR$/bin/modules/smartedit/cmssmartedit/apps/cms-smartedit-e2e/tests/utils/mockData/pageTypeMockData.js" />
+        <option value="$PROJECT_DIR$/bin/modules/smartedit/cmssmartedit/apps/cms-smartedit-e2e/tests/utils/mockData/restrictionsMockData.js" />
+        <option value="$PROJECT_DIR$/bin/modules/smartedit/cmssmartedit/apps/cms-smartedit-e2e/tests/utils/mockData/pageDisplayConditionMockData.js" />
+        <option value="$PROJECT_DIR$/bin/modules/smartedit/cmssmartedit/apps/cms-smartedit-e2e/tests/utils/mockData/restrictionTypesMockData.js" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
