@@ -1,11 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="3fc4aa77-73c9-4fd8-9ef6-2dafa8980602" name="Changes" comment="" />
+    <list default="true" id="3fc4aa77-73c9-4fd8-9ef6-2dafa8980602" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/hybris.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/hybris.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/build.number" beforeDir="false" afterPath="$PROJECT_DIR$/data/build.number" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/hsqldb/mydb.data" beforeDir="false" afterPath="$PROJECT_DIR$/data/hsqldb/mydb.data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/hsqldb/mydb.lck" beforeDir="false" afterPath="$PROJECT_DIR$/data/hsqldb/mydb.lck" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/hsqldb/mydb.log" beforeDir="false" afterPath="$PROJECT_DIR$/data/hsqldb/mydb.log" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -29,7 +49,11 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm"
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "spring.configuration.checksum": "3943e291870b41b0938b79c2803a3049"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -42,6 +66,8 @@
       <updated>1650022880269</updated>
       <workItem from="1650022884459" duration="189000" />
       <workItem from="1650374488209" duration="386000" />
+      <workItem from="1650537909737" duration="3613000" />
+      <workItem from="1650547329342" duration="68000" />
     </task>
     <servers />
   </component>
